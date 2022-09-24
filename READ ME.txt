@@ -1,0 +1,5 @@
+# Regression
+Height prediction system using regression
+In this system, The height of the human is predicted from the age. Used 10 sample dataset and linear regression algorithm.
+In the dataset 80% used fot training and 20% used for testing.
+evaluation of performance is also calculated.
